@@ -20,3 +20,15 @@ lista de tarefa
 - [ ] inss
 - [x] polishop
 - [ ] duolingo
+
+[Acesse meu github](https://pedroka06.github.io/projeto-site-jr/)
+
+Num | Nome | Nota
+---|---|---
+1| Pedro | 7,0
+2 | Bruna | 9,5
+3| Junior | 8,5
+4| Yasmim | 10
+Terminou a Tabela
+
+![ceofundationpp](https://user-images.githubusercontent.com/65473628/129388648-5fd657e3-bb54-41c7-9bad-139f97d1f4ba.png)
